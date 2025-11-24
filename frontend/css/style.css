@@ -1,0 +1,15 @@
+.carousel-inner img {
+  max-height: 500px; /* ajusta la altura */
+  object-fit: cover; /* mantiene proporción y recorta */
+}
+
+
+
+
+
+#pieDetails {
+    margin-top: 1200px; /* Ajusta la distancia hacia abajo */
+}
+
+
+
